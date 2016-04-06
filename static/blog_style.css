@@ -1,0 +1,15 @@
+body {
+  font-family: Georgia, sans-serif;
+  font-size:100%;
+  position: absolute
+  top:120px;
+  left: 60px;
+  padding-left: 110px;
+  padding-top: 60px;
+}
+
+.top-row {
+	position: absolute;
+	top: 20px;
+	left: 80px;
+}
